@@ -11,7 +11,7 @@
         <li class="sidebar-item">
             <a href="index.php?url=inicio" class="sidebar-link">
                 <i class="nf nf-cod-home"></i>
-                <span>Home</span>
+                <span>Inicio</span>
             </a>
         </li>
         <li class="sidebar-item">
